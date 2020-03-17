@@ -1,10 +1,11 @@
 ###
  # @Description: 
  # @Author: zyt
- # @Date: 2020-03-16 17:16:31
+ # @Date: 2020-03-17 10:58:09
  # @LastEditors: zyt
- # @LastEditTime: 2020-03-16 17:18:59
+ # @LastEditTime: 2020-03-17 11:39:24
  ###
+#!/bin/bash -ilex
 image_version=`date +%Y%m%d%H%M`;
 echo $image_version;
 # cd vue2docker
